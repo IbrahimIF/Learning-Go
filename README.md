@@ -4,12 +4,10 @@
 # Go-Lang
 </div>
 
+-----
 Repository containing my Golang excercises and challenges. 
-
-
-
 
 -----
 ## Technologies and Tools Utilised:
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=terminal,git,gitbash,golang,bash,vscode&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=golang,git,bash,vscode&titles=true)
